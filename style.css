@@ -111,6 +111,9 @@ body {
 	.img-div{
 		border-top-right-radius: 0.6rem;
 		border-bottom-left-radius: 0;
+    height: 250px;
+    object-fit: cover;
+    object-position: 50% 30%;
 	}
 	.btn-div{
 		margin-bottom: 1rem;
